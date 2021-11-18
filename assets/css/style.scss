@@ -75,11 +75,13 @@ a.navbar-item.is-active {
     letter-spacing: 0.25rem;
 }
 @media (hover: none) {
-    #hero{
-        background-attachment: scroll;
-        background-position: 25% 50%;
-        background-size: contain;
-        height: 100vh;
+    .hero{
+        &::before {
+            background-attachment: scroll;
+            background-position: top;
+            background-size: contain;
+            height: 100vh;
+        }
     }
 }
 
