@@ -73,9 +73,9 @@ compress_html:
 defaults:
   -
     scope:
-      type: 'posts'
+      type: 'works'
     values:
-      layout: post
+      layout: works
       post-image: ""
       description: ""
       tags:
