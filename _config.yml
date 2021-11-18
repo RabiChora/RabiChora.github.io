@@ -86,17 +86,6 @@ defaults:
     values:
       layout: cv
 
-  -
-    scope:
-      type: 'works/arts'
-    values:
-      layout: arts
-
-  -
-    scope:
-      type: 'cv'
-    values:
-      layout: cv
 
 # Exclude
 exclude:

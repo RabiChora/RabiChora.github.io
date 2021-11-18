@@ -1,6 +1,7 @@
 ---
 title: Test Page
-layout: page
+layout: cv
+permalink: /cv/
 ---
 
 # This is heading 1
