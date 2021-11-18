@@ -1,0 +1,41 @@
+- name: Amiya
+  link: https://i.imgur.com/q26kLqQ.jpg
+  image: https://i.imgur.com/q26kLqQ.jpg
+  description:
+  size: is-16by9
+  filling: is-full-widescreen is-full-desktop is-full-fullhd is-full-tablet is-full-mobile is-full-touch
+
+- name: Selfie
+  image: https://i.imgur.com/L1N0hkO.jpg
+  link: https://i.imgur.com/L1N0hkO.jpg
+  description:
+  size: is-square
+  filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
+
+- name: Furry Me
+  image: https://i.imgur.com/Qqc0lUr.png
+  link: https://i.imgur.com/Qqc0lUr.png
+  description:
+  size: is-3by4
+  filling:
+
+- name: Kisses
+  link: https://i.imgur.com/jNlXQbt.gif
+  image: https://i.imgur.com/jNlXQbt.gif
+  description:
+  size: is-3by4
+  filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
+
+- name: Waaifu
+  link: https://imgur.com/I6k0n2n.jpg
+  image: https://imgur.com/I6k0n2n.jpg
+  description:
+  size: is-3by4
+  filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
+
+- name: Sekiro
+  link: https://imgur.com/8LCnatB.jpg
+  image: https://imgur.com/8LCnatB.jpg
+  description:
+  size: is-16by9
+  filling: is-full-widescreen is-full-desktop is-full-fullhd is-full-tablet is-full-mobile is-full-touch

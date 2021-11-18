@@ -1,0 +1,17 @@
+<div class="columns is-centered is-multiline is-mobile">
+    {% for art in site.data.art-works %}
+        <div class="column has-text-centered is-paddingless  {{art.filling}}"
+             id="art-card">
+            <a href="{{art.link}}" target="_blank">
+                <div class="has-background-black card">
+                    <figure class="image {{art.size}}" style="background-image: url({{art.image}});">
+                    </figure>
+                    <div class="card-content">
+                        <h1 class="title has-text-white is-size-4">{{ art.name }}</h1>
+                        <p class="has-text-white has-text-weight-light content">{{ art.description | truncate: 80}}</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    {% endfor %}
+</div>
