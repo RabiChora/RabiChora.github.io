@@ -1,6 +1,6 @@
 ---
 title: Works
-layout: project
+layout: works
 permalink: /works/
 ---
 
