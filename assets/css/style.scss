@@ -52,11 +52,11 @@ a.navbar-item.is-active {
     &::before {
         filter: blur(0.15rem);
         background-image: url({{site.heroimage}});
-        background-position: center top;
+        background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
-        min-height: 50%;
+        min-height: 100px;
         top: 0px;
         right: 0px;
         bottom: 0px;
@@ -66,13 +66,7 @@ a.navbar-item.is-active {
         content: "";
     }
 
-    @media (hover: none) {
-        &::before{
-            background-attachment: scroll;
-            background-size: contain;
-            height: 100vh;
-        }
-    }
+
 }
 .title {
     margin: auto 0.75rem!important;
@@ -80,7 +74,13 @@ a.navbar-item.is-active {
 .subtitle {
     letter-spacing: 0.25rem;
 }
-
+@media (hover: none) {
+    #hero{
+        background-attachment: scroll;
+        background-size: contain;
+        height: 100vh;
+    }
+}
 
 #about {
     .image {
