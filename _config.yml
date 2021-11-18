@@ -63,7 +63,7 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: "works/:title"
+permalink: "/:title"
 
 # Compress
 compress_html:
