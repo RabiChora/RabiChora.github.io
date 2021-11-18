@@ -69,6 +69,8 @@ a.navbar-item.is-active {
     @media (hover: none) {
         &::before{
             background-attachment: scroll;
+            background-size: contain;
+            height: 100vh;
         }
     }
 }
