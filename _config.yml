@@ -82,9 +82,21 @@ defaults:
         - ""
   -
     scope:
-      type: 'pages'
+      type: 'cv'
     values:
-      layout: page
+      layout: cv
+
+  -
+    scope:
+      type: 'works/arts'
+    values:
+      layout: arts
+
+  -
+    scope:
+      type: 'cv'
+    values:
+      layout: cv
 
 # Exclude
 exclude:
