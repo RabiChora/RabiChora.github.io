@@ -34,7 +34,7 @@ Major: Mathematics and Computer Science
     * Implementing random plane localization in a 3D volume
     * Implementing a 2D U-Net with pytorch and 
     * Training image segmentation with the U-Net implemented
-* <u>**[Blender Tools](https://github.com/RabiChora/Blender-Auto-Tools)**: </u>
+* **[Blender Tools](https://github.com/RabiChora/Blender-Auto-Tools)**: 
     * Automatically assign well named textures to a fixed material shader
     * Automatically import a whole set of pre-made Model representation scene with a user chosen model and
     * A well implemented tool to choose the color of the pre-made Model representation scene with correspoding shade color automatically chosen
