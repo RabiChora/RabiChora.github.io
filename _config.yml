@@ -52,6 +52,9 @@ author-about: Undergraduate from Oxford University with a degree on Mathematics 
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/RabiChora
 
+# Image of CV
+cv-image: 
+
 # SASS
 sass:
   sass_dir: _sass
