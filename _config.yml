@@ -53,7 +53,11 @@ author-about: Undergraduate from Oxford University with a degree on Mathematics 
 author-url: https://github.com/RabiChora
 
 # Image of CV
-cv-image: 
+cv-image: https://z3.ax1x.com/2021/11/23/o925GQ.png
+  # https://i.imgur.com/ALJuy2P.png
+  # https://z3.ax1x.com/2021/11/23/o925GQ.png
+  # https://i.loli.net/2021/11/23/cULpSb9eNF6aZf2.png
+
 
 # SASS
 sass:
