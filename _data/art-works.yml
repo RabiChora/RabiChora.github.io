@@ -26,12 +26,12 @@
   size: is-3by4
   filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
 
-- name: Waaifu
-  link: https://z3.ax1x.com/2021/11/24/oCeQoj.jpg
-  image: https://z3.ax1x.com/2021/11/24/oCeQoj.jpg
+- name: ConneR from Cytus2
+  link: https://z3.ax1x.com/2021/11/24/oC8u34.png
+  image: https://z3.ax1x.com/2021/11/24/oC8u34.png
   description:
-  size: is-3by4
-  filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
+  size: is-16by9
+  filling: is-full-widescreen is-full-desktop is-full-fullhd is-full-tablet is-full-mobile is-full-touch
 
 - name: Sekiro
   link: https://z3.ax1x.com/2021/11/24/oCeJS0.jpg
@@ -39,3 +39,74 @@
   description:
   size: is-16by9
   filling: is-full-widescreen is-full-desktop is-full-fullhd is-full-tablet is-full-mobile is-full-touch
+
+- name: Waaifu
+  link: https://z3.ax1x.com/2021/11/24/oCeQoj.jpg
+  image: https://z3.ax1x.com/2021/11/24/oCeQoj.jpg
+  description:
+  size: is-3by4
+  filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
+
+- name: Cloth design for character in Honkai 3rd
+  link: https://z3.ax1x.com/2021/11/24/oC3vAf.png
+  image: https://z3.ax1x.com/2021/11/24/oC3vAf.png
+  description:
+  size: is-3by4
+  filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
+
+- name: Yuji from FGO
+  link: https://z3.ax1x.com/2021/11/24/oC3xN8.png
+  image: https://z3.ax1x.com/2021/11/24/oC3xN8.png
+  description:
+  size: is-3by4
+  filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
+
+- name: Happy mid-autumn festival
+  link: https://z3.ax1x.com/2021/11/24/oC3z4S.png
+  image: https://z3.ax1x.com/2021/11/24/oC3z4S.png
+  description:
+  size: is-3by4
+  filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
+
+- name: Summer Time
+  link: https://z3.ax1x.com/2021/11/24/oC8Fun.png
+  image: https://z3.ax1x.com/2021/11/24/oC8Fun.png
+  description:
+  size: is-3by4
+  filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
+
+- name: AA12 from girls frontline
+  link: https://z3.ax1x.com/2021/11/24/oC8kBq.png
+  image: https://z3.ax1x.com/2021/11/24/oC8kBq.png
+  description:
+  size: is-3by4
+  filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
+
+- name: Thunder fron girls frontline
+  link: https://z3.ax1x.com/2021/11/24/oC8ZNT.png
+  image: https://z3.ax1x.com/2021/11/24/oC8ZNT.png
+  description:
+  size: is-3by4
+  filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
+
+- name: ZasM21 fron girls frontline
+  link: https://z3.ax1x.com/2021/11/24/oC8e4U.png
+  image: https://z3.ax1x.com/2021/11/24/oC8e4U.png
+  description:
+  size: is-16by9
+  filling: is-full-widescreen is-full-desktop is-full-fullhd is-full-tablet is-full-mobile is-full-touch
+
+- name: Sketch of Xenon from Cytus2
+  link: https://z3.ax1x.com/2021/11/24/oC8KgJ.png
+  image: https://z3.ax1x.com/2021/11/24/oC8KgJ.png
+  description:
+  size: is-3by4
+  filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
+
+- name: Sketch of girls
+  link: https://z3.ax1x.com/2021/11/24/oC8Mv9.png
+  image: https://z3.ax1x.com/2021/11/24/oC8Mv9.png
+  description:
+  size: is-3by4
+  filling: is-one-third-widescreen is-one-third-desktop is-one-third-fullhd is-one-third-tablet is-two-fifths-mobile is-three-quarters-touch
+

@@ -1,5 +1,6 @@
 ---
-title: Test Page
+
+title: Resume
 layout: cv
 permalink: /cv/
 ---
@@ -19,7 +20,7 @@ Major: Mathematics and Computer Science
 ---
 
 ## <u>Coding Experience</u>
-### <u>Unity(C#)</u>
+### <u>C#(Unity)</u>
 * Participated in a lot of Projects, has experience in designing and optimizing games, in particular, implementing rim light occlusion on mobile devices without turning on shadows
 * Proficient in using ShaderLab and HLSL language to write shaders in Unity. (Images showing in [Works](https://rabichora.github.io/works/))
 * Shader investigation in reproducing the [Toon shader in game Genshin Impact](https://github.com/RabiChora/GenshinLikeToonShading)

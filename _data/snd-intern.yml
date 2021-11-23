@@ -1,5 +1,9 @@
-- name: 2nd-intern
-  image: https://i.imgur.com/NcoDNCS.gif
-  link: https://i.imgur.com/NcoDNCS.gif
-  description: Company protected images
+- name: Rim Light occlusion on mobile devices
+  image: https://z3.ax1x.com/2021/11/24/oC371H.gif
+  link: https://drive.google.com/file/d/1VWl8NhvwQDeXELYiBbVoqZtnZtuJ1vsa/view?usp=sharing
+  description: Rimlight occlusion implemented without turing on shoadows in games using SH (spherical harmonics)
 
+- name: Blender Tools
+  image: https://z3.ax1x.com/2021/11/24/oC3OBt.png
+  link: https://github.com/RabiChora/Blender-Auto-Tools
+  description: Blender Auto rendering template tool (with Photoshop involved, please don't share)

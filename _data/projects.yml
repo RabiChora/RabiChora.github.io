@@ -13,10 +13,10 @@
   image: https://z3.ax1x.com/2021/11/24/oCmu1x.png
   description:
 
-- name: School works
-  link: school-works
-  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
-  description:
+#- name: School works
+#  link: school-works
+#  image: https://cdn.pixabay.com/photo/2016/12/02/02/10/idea-1876659_960_720.jpg
+#  description:
 
 - name: Art Works
   link: art-works

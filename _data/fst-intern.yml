@@ -1,4 +1,46 @@
-- name: 1st-intern
-  image: https://i.imgur.com/hRtrWvr.gif
-  link: https://i.imgur.com/hRtrWvr.gif
+- name: 3D looking card in 2D plane
+  image: https://z3.ax1x.com/2021/11/24/oCe8Wq.gif
+  link: https://z3.ax1x.com/2021/11/24/oCe8Wq.gif
+  description: A card that has a 3D look inside but has a flat look on the outside
+
+- name: A Front page Logo effect
+  image: https://z3.ax1x.com/2021/11/24/oClvrt.gif
+  link: https://z3.ax1x.com/2021/11/24/oClvrt.gif
+  description: A flag dissolve in with flowing effect plus Logo words flipping in like pages
+
+- name: 3D dissolve effect
+  image: https://z3.ax1x.com/2021/11/24/oC1hWQ.gif
+  link: https://z3.ax1x.com/2021/11/24/oC1hWQ.gif
+  description: A 3D dissolve effect that stay as it is when the object is moving
+
+- name: Air dissort
+  image: https://z3.ax1x.com/2021/11/24/oClTUO.gif
+  link: https://z3.ax1x.com/2021/11/24/oClTUO.gif
+  description: An air dissort effect implemented on a piece of plane
+
+- name: Fire effect with mask
+  image: https://z3.ax1x.com/2021/11/24/oC3Ylj.gif
+  link: https://z3.ax1x.com/2021/11/24/oC3Ylj.gif
+  description: A fire effect that can use a black-white mask to control directions
+
+- name: Double side half transparent shader
+  image: https://z3.ax1x.com/2021/11/24/oClgC4.gif
+  link: https://z3.ax1x.com/2021/11/24/oClgC4.gif
+  description: A double side transparent shader with dither
+
+- name: Rotating effect
+  image: https://z3.ax1x.com/2021/11/24/oClbPe.gif
+  link: https://z3.ax1x.com/2021/11/24/oClbPe.gif
+  description: A rotating 'smoke' effect with double sided half transparent shader
+
+- name: Fire Particles
+  image: https://z3.ax1x.com/2021/11/24/oClsET.gif
+  link: https://z3.ax1x.com/2021/11/24/oClsET.gif
   description:
+
+- name: Rotating fan
+  image: https://z3.ax1x.com/2021/11/24/oClBD0.gif
+  link: https://z3.ax1x.com/2021/11/24/oClBD0.gif
+  description: A very early stage fan model made by myself
+
+
