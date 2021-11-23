@@ -11,19 +11,19 @@ title: RabiChora's Portfolio
 # Description of the Site
 description: Personal Portfolio
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/Front-self.jpg
+site-image: /assets/images/Front-self.jpg
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: https://i.imgur.com/K1AT6cU.png
+favicon-url: https://z3.ax1x.com/2021/11/24/oCeYlV.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: https://i.imgur.com/iEdpebv.jpg
+heroimage: https://z3.ax1x.com/2021/11/23/o9RxTf.jpg
 # https://i.imgur.com/JUtIYjF.jpg
 # https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 
 # Social Media and Contact
-social-page-img: https://imgur.com/NkyayAS.gif
+social-page-img: https://z3.ax1x.com/2021/11/23/o9WF6s.gif
 # If you don't want to use any icon, you can leave them blank.
 email: charlotteli19990615@gmail.com
 facebook_username: thedevslot
@@ -46,7 +46,7 @@ disqus-shortname: RabiChora
 # Name of the Author
 author-name: RabiChora[Yangyuqing(Charlotte) Li]
 # URL for the Image of the Author
-author-image: https://i.imgur.com/NZrn2e6.jpg
+author-image: https://z3.ax1x.com/2021/11/23/o9WptS.jpg
 # 60 Words About the Author
 author-about: Undergraduate from Oxford University with a degree on Mathematics and Computer Science. Passionate about Tech Art, specifically in areas of rendering and tools making for DCC softwares.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
