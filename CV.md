@@ -63,6 +63,6 @@ Major: Mathematics and Computer Science
 ### <u>Perfect World Co.,Ltd (June 2020 – June 2021)</u>
 * Worked as a Technical Artist in the company and mainly developing in Unity 3D engine, along the line of Toon shading and Effect shading. Wrote many effect shader, participated in the making of technical demo and some game project in the company, implemented a PBR compress method on my own.
 
-### <u> Tencent (July 2021 – now)</u>
+### <u> Tencent (July 2021 – Sep 2021)</u>
 * Worked as a Technical Artist in the company and mainly developing in Unity 3D engine, invested Screen Spaced SubSurface Scattering for unity, and using SH functions to implement rim light masking, delivered these investigations towards game projects in the company
 
