@@ -1,5 +1,5 @@
 ---
 title: Art works
 layout: arts
-permalink: /works/art-works/
+permalink: /portfolio/art-works/
 ---
