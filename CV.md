@@ -66,3 +66,14 @@ Major: Mathematics and Computer Science
 ### <u> Tencent (July 2021 – Sep 2021)</u>
 * Worked as a Technical Artist in the company and mainly developing in Unity 3D engine, invested Screen Spaced SubSurface Scattering for unity, and using SH functions to implement rim light masking, delivered these investigations towards game projects in the company
 
+---
+## <u>Something Extra</u>
+* Was the art director in OUCS (Oxford University Chinese Society)
+* ### Languages:
+  * Chinese - Native
+  * English - Fluent
+  * Japanese - Elementary
+* ### Interests:
+  * Piano (ABRSM Grade 8 with Merit)
+  * Digital illustrations
+  * Figure skating
